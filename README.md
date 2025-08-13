@@ -15,5 +15,5 @@ The full Version 2.0 PDF includes:
 - Acronyms & Abbreviations
 - Glossary / Definitions
 
-📥 **[Download the Full PDF here](https://github.com/IdayuIsmail/SSO-Guides/releases/download/v2.0/PP24176-MyDigitalID_2.0_SSO_Integration_Guideline_Document_v2.0_signed.pdf)**  
+📥 **[Download the Full PDF here]([https://github.com/IdayuIsmail/SSO-Guides/releases/download/v2.0/PP24176-MyDigitalID_2.0_SSO_Integration_Guideline_Document_v2.0_signed.pdf](https://github.com/user-attachments/files/21750038/PP24176-MyDigitalID_2.0_SSO_Integration_Guideline_Document_v2.0_signed.pdf))**  
 *(Also available under [Releases](https://github.com/IdayuIsmail/SSO-Guides/releases))*  
