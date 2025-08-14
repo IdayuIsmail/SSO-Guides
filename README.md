@@ -5,8 +5,9 @@ This repository contains official SSO integration guides for multiple versions o
 Each version is maintained in its own branch for clarity.
 
 ## 📌 Available Versions
-<!--VERSIONS_START-->
-<!--VERSIONS_END-->
+| Version | Branch | Release Notes | Download PDF |
+|---------|--------|--------------|--------------|
+| v2.0 | [`branch-v2.0`](https://github.com/IdayuIsmail/SSO-Guides/tree/branch-v2.0) | [Release v2.0](https://github.com/IdayuIsmail/SSO-Guides/releases/tag/v2.0) | [PDF](https://github.com/IdayuIsmail/SSO-Guides/releases/download/v2.0/PP24176-MyDigitalID_2.0_SSO_Integration_Guideline_Document_v2.0_signed.pdf) |
 
 ---
 
