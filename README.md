@@ -21,7 +21,7 @@ This guide covers:
 ---
 
 ## 🚀 Quick Start
-1. Select your version from the table above.
+1. Select your version from the table.
 2. Browse the `SECTION 1` and `SECTION 2` folders in GitHub.
 3. Or download the PDF from the Releases page.
 
